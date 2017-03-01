@@ -1,0 +1,4 @@
+EXPORTS
+    KBDProc@12 @1
+    KBDStart @2
+    KBDStop @3
